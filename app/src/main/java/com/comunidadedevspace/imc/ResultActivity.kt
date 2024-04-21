@@ -23,7 +23,7 @@ class ResultActivity : AppCompatActivity() {
 
             tvResult.text = result.toString()
 
-             var classificacao: String? = if(result <= 18.5f) {
+             val classificacao: String = if(result <= 18.5f) {
                  "ABAIXO DO PESO"
              } else if ( result > 18.5f && result <= 24.9f){
                  "PESO NORMAL"
