@@ -21,6 +21,7 @@ class ResultActivity : AppCompatActivity() {
             val tvResult = findViewById<TextView>(R.id.tv_result)
             val tvClassificacao = findViewById<TextView>(R.id.tv_classificacao)
 
+
             tvResult.text = result.toString()
 
              val classificacao: String = if(result <= 18.5f) {

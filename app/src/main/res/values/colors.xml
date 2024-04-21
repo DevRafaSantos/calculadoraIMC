@@ -2,7 +2,10 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-
     <color name="primary_400">#cd00ea</color>
     <color name="primary_900">#5c00d2</color>
+    <color name="abaixo_peso">#DBA70F</color>
+    <color name="peso_normal">#0D44DB</color>
+    <color name="sobrepeso">#DB770F</color>
+    <color name="obesidade">#DB0918</color>
 </resources>
