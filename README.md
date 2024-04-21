@@ -1,5 +1,5 @@
 # Calculadora IMC
-Esse projeto foi desenvolvido com intuito de realizar o cálculo do IMC. Realizado em linguagem nativa do Android, o Kotlin.
+Esse projeto foi desenvolvido em linguagem nativa do Android, o Kotlin. O projeto é um dos módulos dos curso do DevSpace onde chama-se 10D Challenge, nele é desenvolvido uma aplicativo de cálculo de IMC.
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
