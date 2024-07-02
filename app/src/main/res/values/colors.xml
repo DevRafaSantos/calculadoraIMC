@@ -4,8 +4,9 @@
     <color name="white">#FFFFFFFF</color>
     <color name="primary_400">#cd00ea</color>
     <color name="primary_900">#5c00d2</color>
-    <color name="abaixo_peso">#DBA70F</color>
-    <color name="peso_normal">#0D44DB</color>
-    <color name="sobrepeso">#DB770F</color>
-    <color name="obesidade">#DB0918</color>
+    <color name="Subpeso">#4B8FE3</color>
+    <color name="Normal">#60B600</color>
+    <color name="Sobrepeso">#DB0918</color>
+    <color name="Orange">#FF7334</color>
+    <color name="Gray">#6D7077</color>
 </resources>
